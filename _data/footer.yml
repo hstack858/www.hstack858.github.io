@@ -2,10 +2,10 @@
   links:
     - name: Home
       link: /
-    - name: Portfolio
-      link: /portfolio/
-    - name: Blog
-      link: /blog/
+    - name: Projects
+      link: /projects/
+    - name: Resume
+      link: /resume/
     - name: About
       link: /about/
     - name: Contact
@@ -13,18 +13,14 @@
 - title: Social
   links:
     - name: Facebook
-      link: https://facebook.com/cloudcannon/
+      link: https://www.facebook.com/profile.php?id=100010343438717
       social_icon: Facebook
       new_window: true
     - name: Twitter
-      link: https://twitter.com/cloudcannon/
+      link: https://twitter.com/Hstack858
       social_icon: Twitter
       new_window: true
     - name: Instagram
-      link: https://instagram.com/
+      link: https://www.instagram.com/hstack8/
       social_icon: Instagram
-      new_window: true
-    - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon
-      social_icon: LinkedIn
       new_window: true
