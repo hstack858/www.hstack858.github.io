@@ -1,6 +1,6 @@
 ---
 name: Easy Animator
-image_path: "/assets/night.gif"
+image_path: "/assets/nightPic.png"
 ---
 
 ## Summary
